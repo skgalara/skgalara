@@ -49,7 +49,12 @@ For significant rewrites or experimental layouts, use a feature branch and merge
 
 ## Current README State
 
-The README currently contains the default GitHub template with placeholder text (interests, learning goals, collaboration interests, contact info, pronouns, fun fact). It has not yet been customized.
+The README is partially customized. It retains the default GitHub template placeholder lines (interests, learning goals, collaboration interests, contact info, pronouns, fun fact) but has been extended with two broker/trading-platform badge sections:
+
+- **Kite** (Zerodha's trading platform) — linked to `kite.com`
+- **Zerodha** — linked to `zerodha.com`
+
+This suggests the profile owner has a connection to stock trading or fintech. The placeholder lines at the top have not yet been replaced with real personal content.
 
 ## AI Assistant Notes
 
